@@ -1,3 +1,16 @@
+@font-face {
+    font-family: 'Bridge Type';
+    src: url('BridgeType-Regular.eot');
+    src: url('BridgeType-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BridgeType-Regular.woff2') format('woff2'),
+        url('BridgeType-Regular.woff') format('woff'),
+        url('BridgeType-Regular.ttf') format('truetype'),
+        url('BridgeType-Regular.svg#BridgeType-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 *{
     font-family: "Bridge Type" !important;
     font-family: "PF BeauSans Pro" !important;
