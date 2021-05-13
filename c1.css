@@ -11,6 +11,11 @@
     color: #73FDEA !important;
 }
 
+.title .name{
+    color: #73FDEA !important;
+    font-family: "Champions Web" !important;  
+}
+
 .title,
 .title *,
 .latest-title,
