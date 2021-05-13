@@ -1,5 +1,5 @@
 *{
-    font-family: "Champions Web" !important;
+    font-family: "Champions" !important;
 }
 .metric{
     color: #fff;
@@ -15,10 +15,6 @@
 .title *,
 .latest-title,
 .result{
-    font-family: "Champions" !important;   
-}
-
-footer *{
     font-family: "Champions" !important;   
 }
 
