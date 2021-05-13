@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Bridge Type';
+    font-family: 'Bridge-type';
     src: url('BridgeType-Regular.eot');
     src: url('BridgeType-Regular.eot?#iefix') format('embedded-opentype'),
         url('BridgeType-Regular.woff2') format('woff2'),
@@ -12,7 +12,6 @@
 }
 
 *{
-    font-family: "Bridge Type" !important;
     font-family: "PF BeauSans Pro" !important;
 }
 .metric{
@@ -29,9 +28,9 @@
 .title *,
 .latest-title,
 .result{
-    font-family: "Bridge Type" !important;   
+    font-family: "Bridge-type" !important;   
 }
 
 footer .clock *{
-    font-family: "Bridge Type" !important;   
+    font-family: "Bridge-type" !important;   
 }
