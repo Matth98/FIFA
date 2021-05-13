@@ -1,7 +1,7 @@
 body *{
-	font-family: "Bridge Type"
+	font-family: "Bridge Type" !important;
 }
 
 .metric{
-	color: red;
+	color: red !important;
 }
