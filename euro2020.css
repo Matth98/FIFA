@@ -1,8 +1,23 @@
 *{
-	font-family: "Bridge Type" !important;
-	background: bue;
+    font-family: "Bridge Type" !important;
+    font-family: "PF BeauSans Pro" !important;
+}
+.metric{
+    color: #fff;
 }
 
-.metric{
-	color: red !important;
+.metric.points.highlighted,
+.rank,
+.title .name{
+    color: #b7e46f !important;
+}
+
+.title *,
+.latest-title,
+.result{
+    font-family: "Bridge Type" !important;   
+}
+
+footer .clock *{
+    font-family: "Bridge Type" !important;   
 }
