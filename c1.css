@@ -1,0 +1,23 @@
+*{
+    font-family: "Champions Web" !important;
+}
+.metric{
+    color: #fff;
+}
+
+.metric.points.highlighted,
+.rank,
+.title .name{
+    color: #73FDEA !important;
+}
+
+.title,
+.title *,
+.latest-title,
+.result{
+    font-family: "Champions" !important;   
+}
+
+footer .clock *{
+    font-family: "Champions" !important;   
+}
