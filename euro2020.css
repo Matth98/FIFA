@@ -1,3 +1,31 @@
+*{
+    font-family: "PF BeauSans Pro" !important;
+}
+.metric{
+    color: #fff;
+}
+
+.metric.points.highlighted,
+.rank,
+.title .name{
+    color: #b7e46f !important;
+}
+
+.slide .name{
+    text-transform: none !important;
+}
+
+.title,
+.title *,
+.latest-title,
+.result{
+    font-family: "Bridge-type" !important;   
+}
+
+footer .clock *{
+    font-family: "Bridge-type" !important;   
+}
+
 /*-----BRIDGE TYPE-----*/
 
 @font-face {
@@ -169,35 +197,4 @@
     font-weight: 100;
     font-style: normal;
     font-display: swap;
-}
-
-
-
-/*-----CSS-----*/
-
-*{
-    font-family: "PF BeauSans Pro" !important;
-}
-.metric{
-    color: #fff;
-}
-
-.metric.points.highlighted,
-.rank,
-.title .name{
-    color: #b7e46f !important;
-}
-
-.slide .name{
-    text-transform: none !important;
-
-.title,
-.title *,
-.latest-title,
-.result{
-    font-family: "Bridge-type" !important;   
-}
-
-footer .clock *{
-    font-family: "Bridge-type" !important;   
 }
